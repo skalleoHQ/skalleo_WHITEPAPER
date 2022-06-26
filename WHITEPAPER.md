@@ -120,11 +120,11 @@ Bien que la preuve de travail (PoW) ait été reconnue comme un mécanisme prati
 
 De ce fait, nous choisirons d’utiliser la preuve d’enjeu déléguée ([__DPoS__](https://it.wikipedia.org/wiki/Delegated_Proof_of_Stake)) qui est le consensus de base de Lisk. Considérant que l’intérêt commun doit primer sur l’intérêt personnel, les détenteurs de pool de solidarité seront élus d’office comme les forgeurs. Ce qui signifie que chaque état sera un délégué (forgeur) et veillera à la sécurité de la blockchain. 
 
-SB propose ici de modifier le DPoS :  
+__SB__ propose ici de modifier le DPoS :  
 
 Les blocs sont produits par un ensemble limité de valideurs. 
 
-Les valideurs se relaient pour produire des blocs de manière PoA c’est à dire seul les élus pourront forger des blocs. 
+Les valideurs se relaient pour produire des blocs de manière [__PoA__](https://en.wikipedia.org/wiki/Proof_of_authority) c’est à dire seul les élus pourront forger des blocs. 
 
 Les valideurs seront d’office les états détenteurs de pool de solidarité. 
 
@@ -142,7 +142,7 @@ Naturellement s’il y a N états adhérents donc N valideurs, les nœuds de la 
 
 ### Récompense  
 
-Tous les valideurs de SB seront récompensés par des frais de forgeage en LSK. Comme LSK est un jeton inflationniste, il y aura des récompenses minières comme ce que le réseau Bitcoin et Ethereum génèrent, et les frais de transaction sont la principale récompense pour le pool de solidarité mondiale ou notre rémunération. 
+Tous les valideurs de __SB__ seront récompensés par des frais de forgeage en __LSK__. Comme __LSK__ est un jeton inflationniste, il y aura des récompenses minières comme ce que le réseau Bitcoin et Ethereum génèrent, et les frais de transaction sont la principale récompense pour le pool de solidarité mondiale ou notre rémunération. 
 
 Ceci permettra de prôner l’intérêt commun car les récompenses minières contribueront aux fonds de solidarité de l’état valideur.  
 
@@ -152,19 +152,19 @@ Les frais de transaction proviendront d’une portion des paiements des professi
 
 ## Plan économique des jetons  
 
-SKA et LSK ne partagent pas le même univers de jetons. Celui-ci définit : 
+__SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci définit : 
 
-Les jetons LSK s’utiliseront dans la blockchain afin de rémunérer les forgeurs. 
+Les jetons __LSK__ s’utiliseront dans la blockchain afin de rémunérer les forgeurs. 
 
-Les jetons LSK et les stables coins devront être convertibles de manière bidirectionnelle et pourront circuler sur le réseau skalleo.  
+Les jetons __LSK__ et les stables coins devront être convertibles de manière bidirectionnelle et pourront circuler sur le réseau skalleo.  
 
 Les stables coins s’utiliseront pour payer les professionnels de santé. 
 
-Le jeton SKA sera déflationniste et capitalisera la SB. 
+Le jeton __SKA__ sera déflationniste et capitalisera la __SB__. 
 
 ### Fonds d’amorçage  
 
-Au début de la blockchain, chaque contribuable est libre d’acheter des LSK ou des stables coins pour n’importe quelle raison, que ce soit pour faire des dons aux pools de solidarité, remercier un professionnel etc... 
+Au début de la blockchain, chaque contribuable est libre d’acheter des __LSK__ ou des stables coins pour n’importe quelle raison, que ce soit pour faire des dons aux pools de solidarité, remercier un professionnel etc... 
 
 Quant aux pools de solidarité, il sera nécessaire d’amorcer leur compteur avec un montant minimal et crédible en stable coins.  
 
@@ -172,9 +172,9 @@ Quant aux pools de solidarité, il sera nécessaire d’amorcer leur compteur av
 
 ## Sécurité des données  
 
-SB renforcera la sécurité de ses données en limitant l’interopérabilité avec d’autres applications. Comme cité plus haut, SB choisit d’être interopérable avec le réseau principal Lisk. 
+__SB__ renforcera la sécurité de ses données en limitant l’interopérabilité avec d’autres applications. Comme cité plus haut, __SB__ choisit d’être interopérable avec le réseau principal __Lisk__. 
 
-Cependant ne seront admises que les applications à finalité identique à SB afin de réduire au mieux tous risques pouvant porter atteinte à SB et ses utilisateurs.  
+Cependant ne seront admises que les applications à finalité identique à __SB__ afin de réduire au mieux tous risques pouvant porter atteinte à __SB__ et ses utilisateurs.  
 
 Les données santé seront sauvegardés en plugin ceci permettra de stocker ces données uniquement dans quelques nœuds. Contrairement aux données santé, les comptes patients, professionnels et pools de solidarité seront enregistrés en état dans la blockchain, car celles-ci se trouvent au cœur des transactions à savoir (les transactions de soins transmis, les paiements à effectuer...) 
 
@@ -184,9 +184,9 @@ Ainsi les délégués seront en mesure de garder les données santé des patient
 
 ## Perspectives  
 
-SB se fixe comme objectifs à court-terme :  
+__SB__ se fixe comme objectifs à court-terme :  
 
-La connexion entre les jetons LSK et les stables coins. 
+La connexion entre les jetons __LSK__ et les stables coins. 
 
 Le paiement des professionnels en stable coins. 
 
