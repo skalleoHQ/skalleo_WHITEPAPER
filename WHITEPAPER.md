@@ -6,49 +6,49 @@
 
 Une santé sécurisée, par tous pour tous. 
 
-REMARQUE : Ce document est en cours d’élaboration. S’il vous plaît vérifier régulièrement pour les mises à jour ! 
+*REMARQUE : Ce document est en cours d’élaboration. S’il vous plaît vérifier régulièrement pour les mises à jour !*
 
  
 
-### Table des matières 
+### Table des matières
 
-Motivation 
+* Motivation 
 
-Fonctionnement 
+* Fonctionnement 
 
-Qu’est-ce que Lisk ? 
+* Qu’est-ce que Lisk ? 
 
-Principes de conception 
+* Principes de conception 
 
-Consensus et quorum du validateur 
+* Consensus et quorum du validateur 
 
-Preuve d’enjeu déléguée 
+  * Preuve d’enjeu déléguée 
 
-Quorum du valideur 
+  * Quorum du valideur 
 
-Sécurité et finalité 
+  * Sécurité et finalité 
 
-Récompense 
+  * Récompense
 
-Plan économique des jetons 
+* Plan économique des jetons 
 
-Fonds d’amorçage 
+  * Fonds d’amorçage 
 
-Sécurité des données 
+* Sécurité des données 
 
-Perspectives  
+* Perspectives  
 
  
 
 ## Motivation  
 
-L’envie de rendre la santé accessible quelle que soit la situation géographique et de sécuriser le secteur sanitaire à travers le monde nous ont conduit à créer la blockchain skalleo.  
+L’envie de rendre la santé accessible quelle que soit la situation géographique et de sécuriser le secteur sanitaire à travers le monde nous ont conduit à créer la blockchain [skalleo](https://skalleo.io).  
 
 Celle-ci en partenariat avec chaque gouvernement, permettra à chaque citoyen de se soigner partout dans le monde d’une manière simple et sûre.   
 
 Un manque de transparence pénalise aujourd’hui énormément le secteur sanitaire. Ainsi nous décidons de réparer les cassures qui adviennent tout au long des processus sanitaires en mettant en exergue la transparence des données. 
 
-Notre seconde mission sera de mettre en place des structures sociales de santé qui fidéliseront les adhérents de SB. Comment ? 
+Notre seconde mission sera de mettre en place des structures sociales de santé qui fidéliseront les adhérents de __SB__. Comment ? 
 
 A long terme, nous mettrons en place des centres de santé en accord avec chaque gouvernement. Et ceci permettra de réduire la charge à payer des citoyens.  
 
@@ -68,15 +68,15 @@ Le paiement s’effectue automatiquement grâce au pool de solidarité du pays d
 
 Mais comment trouver un pharmacien sérieux et ne pas recevoir de faux médicaments ! 
 
-Elle trouve une pharmacie enregistrée sur skalleo, qui accède à l’ordonnance qu’elle vient de recevoir. Les médicaments émis sont ceux dont le numéro de série se trouve dans les données de l’état sénégalais. Le pool de solidarité de Alice sera débité du tarif fixé par l’état sénégalais et le professionnel est crédité de ce montant. 
+Elle trouve une pharmacie enregistrée sur __skalleo__, qui accède à l’ordonnance qu’elle vient de recevoir. Les médicaments émis sont ceux dont le numéro de série se trouve dans les données de l’état sénégalais. Le pool de solidarité de Alice sera débité du tarif fixé par l’état sénégalais et le professionnel est crédité de ce montant. 
 
-Ce projet fera ses débuts grâce à Lisk et si nécessaire nous concentrerons nos efforts sur la création d’une blockchain propre ultérieurement. 
+Ce projet fera ses débuts grâce à [__Lisk__](https://lisk.com) et si nécessaire nous concentrerons nos efforts sur la création d’une blockchain propre ultérieurement. 
 
  
 
 ## Qu’est-ce que Lisk ?  
 
-Les développeurs peuvent construire, publier, partager et monétiser leurs dApps (applications décentralisées) sur la blockchain Lisk. Celles-ci sont développées avec du code JavaScript. 
+Les développeurs peuvent construire, publier, partager et monétiser leurs dApps (applications décentralisées) sur la blockchain __Lisk__. Celles-ci sont développées avec du code JavaScript. 
 
 Chaque application décentralisée (dApp) fonctionne sur sa propre sidechain. C’est-à-dire que ces applications ne sont pas intégrées à la blockchain Lisk mais qu'elles gravitent autour. La blockchain principale de Lisk ne sera donc pas impactée directement par les sidechains. Les sidechains sont donc des blockchains autonomes qui sont dissociées de la blockchain principale Lisk.  
 
@@ -86,39 +86,39 @@ Les spécificités des sidechains de Lisk peuvent être adaptées et optimisées
 
 ## Principes de conception 
 
-Après la création de la blockchain dans l’écosystème Lisk, deux blockchains fonctionneront côte à côte pour fournir des services différents. La nouvelle chaîne s’appellera << skalleo blockchain >> (abréviation de << SB >> pour les sections ci-dessous), tandis que le réseau principal restera nommé Lisk. 
+Après la création de la blockchain dans l’écosystème __Lisk__, deux blockchains fonctionneront côte à côte pour fournir des services différents. La nouvelle chaîne s’appellera << skalleo blockchain >> (abréviation de << __SB__ >> pour les sections ci-dessous), tandis que le réseau principal restera nommé __Lisk__. 
 
-Voici les principes de conception de SB :  
+Voici les principes de conception de __SB__ :  
 
-Blockchain autonome : techniquement, SB est une blockchain autonome, au lieu d’une solution de couche 2. La plupart des fonctions techniques et commerciales fondamentales de SB devraient être autonomes afin qu’elles puissent bien fonctionner même si Lisk s’arrêtait pendant une courte période. 
+Blockchain autonome : techniquement, __SB__ est une blockchain autonome, au lieu d’une solution de couche 2. La plupart des fonctions techniques et commerciales fondamentales de __SB__ devraient être autonomes afin qu’elles puissent bien fonctionner même si __Lisk__ s’arrêtait pendant une courte période. 
 
-Compatibilité Lisk : pour ne pas enfermer son réseau, SB choisit d’être compatible avec le réseau principal Lisk existant. Cela signifie que la plupart des dApps, des composants de l’écosystème et des outils fonctionneront avec SB et nécessiteront zéro ou un minimum de modifications. 
+Compatibilité Lisk : pour ne pas enfermer son réseau, __SB__ choisit d’être compatible avec le réseau principal __Lisk__ existant. Cela signifie que la plupart des dApps, des composants de l’écosystème et des outils fonctionneront avec __SB__ et nécessiteront zéro ou un minimum de modifications. 
 
-Le protocole de consensus du staking et la gouvernance : le consensus basé sur le forgeage délégué est plus respectueux envers l’environnement et laisse une option plus flexible à la gouvernance communautaire. Ce système devrait permettre de meilleures performances sur le réseau par rapport au système proof-of-work basé sur le minage, c’est à dire un temps de forgeage de bloc plus rapide et une capacité de transaction plus élevée. 
+Le protocole de consensus du staking et la gouvernance : le consensus basé sur le forgeage délégué est plus respectueux envers l’environnement et laisse une option plus flexible à la gouvernance communautaire. Ce système devrait permettre de meilleures performances sur le réseau par rapport au système [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) basé sur le minage, c’est à dire un temps de forgeage de bloc plus rapide et une capacité de transaction plus élevée. 
 
-Communication inter-chaînes native : SB prévoit de mettre un support natif afin de permettre la communication inter-chaînes avec des stables coins comme Tether.... Le protocole de communication doit être bidirectionnel, décentralisé et sans faille. Il se concentrera sur le déplacement d’actifs numériques par exemple entre SB et Tether, USDC... 
+Communication inter-chaînes native : __SB__ prévoit de mettre un support natif afin de permettre la communication inter-chaînes avec des stables coins comme __Tether__.... Le protocole de communication doit être bidirectionnel, décentralisé et sans faille. Il se concentrera sur le déplacement d’actifs numériques par exemple entre __SB__ et __Tether__, __USDC__... 
 
  
 
 ## Consensus et quorum du validateur  
 
-Basé sur les principes de conception, le protocole de consensus de SB est d’atteindre les objectifs suivants :  
+Basé sur les principes de conception, le protocole de consensus de __SB__ est d’atteindre les objectifs suivants :  
 
-Le temps de blocage devrait être plus court que le réseau Lisk, par exemple 5 secondes ou même plus court afin de couvrir toutes les transactions partout dans le monde. 
+Le temps de blocage devrait être plus court que le réseau __Lisk__, par exemple 5 secondes ou même plus court afin de couvrir toutes les transactions partout dans le monde. 
 
 Il faut un temps limité pour confirmer la finalité des transactions, par exemple environ 1 min ou moins. 
 
-Il n’y a pas d’inflation du jeton natif SKA : la récompense de bloc est collectée à partir des frais de forgeage, et elle sera payée en LSK (monnaie de Lisk). 
+Il n’y a pas d’inflation du jeton natif __SKA__ : la récompense de bloc est collectée à partir des frais de forgeage, et elle sera payée en __LSK__ (monnaie de Lisk). 
 
 La compatibilité avec le système de stables coins autant que possible. 
 
-Le jeton SKA représentera la capitalisation de la blockchain skalleo et permettra de gouverner. 
+Le jeton __SKA__ représentera la capitalisation de la blockchain __skalleo__ et permettra de gouverner. 
 
 ### Preuve d’enjeu déléguée  
 
 Bien que la preuve de travail (PoW) ait été reconnue comme un mécanisme pratique pour mettre en œuvre un réseau décentralisé, elle n’est pas durable pour l’environnement et nécessite également un grand nombre de participants pour maintenir la sécurité. 
 
-De ce fait, nous choisirons d’utiliser la preuve d’enjeu déléguée (DPoS) qui est le consensus de base de Lisk. Considérant que l’intérêt commun doit primer sur l’intérêt personnel, les détenteurs de pool de solidarité seront élus d’office comme les forgeurs. Ce qui signifie que chaque état sera un délégué (forgeur) et veillera à la sécurité de la blockchain. 
+De ce fait, nous choisirons d’utiliser la preuve d’enjeu déléguée ([__DPoS__](https://it.wikipedia.org/wiki/Delegated_Proof_of_Stake)) qui est le consensus de base de Lisk. Considérant que l’intérêt commun doit primer sur l’intérêt personnel, les détenteurs de pool de solidarité seront élus d’office comme les forgeurs. Ce qui signifie que chaque état sera un délégué (forgeur) et veillera à la sécurité de la blockchain. 
 
 SB propose ici de modifier le DPoS :  
 
