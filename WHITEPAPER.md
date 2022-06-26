@@ -1,5 +1,4 @@
-# Skalleo blockchain
-
+# Skalleo blockchain  
 
 
  
@@ -90,13 +89,13 @@ Après la création de la blockchain dans l’écosystème __Lisk__, deux blockc
 
 Voici les principes de conception de __SB__ :  
 
-Blockchain autonome : techniquement, __SB__ est une blockchain autonome, au lieu d’une solution de couche 2. La plupart des fonctions techniques et commerciales fondamentales de __SB__ devraient être autonomes afin qu’elles puissent bien fonctionner même si __Lisk__ s’arrêtait pendant une courte période. 
+1. Blockchain autonome : techniquement, __SB__ est une blockchain autonome, au lieu d’une solution de couche 2. La plupart des fonctions techniques et commerciales fondamentales de __SB__ devraient être autonomes afin qu’elles puissent bien fonctionner même si __Lisk__ s’arrêtait pendant une courte période. 
 
-Compatibilité Lisk : pour ne pas enfermer son réseau, __SB__ choisit d’être compatible avec le réseau principal __Lisk__ existant. Cela signifie que la plupart des dApps, des composants de l’écosystème et des outils fonctionneront avec __SB__ et nécessiteront zéro ou un minimum de modifications. 
+2. Compatibilité Lisk : pour ne pas enfermer son réseau, __SB__ choisit d’être compatible avec le réseau principal __Lisk__ existant. Cela signifie que la plupart des dApps, des composants de l’écosystème et des outils fonctionneront avec __SB__ et nécessiteront zéro ou un minimum de modifications. 
 
-Le protocole de consensus du staking et la gouvernance : le consensus basé sur le forgeage délégué est plus respectueux envers l’environnement et laisse une option plus flexible à la gouvernance communautaire. Ce système devrait permettre de meilleures performances sur le réseau par rapport au système [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) basé sur le minage, c’est à dire un temps de forgeage de bloc plus rapide et une capacité de transaction plus élevée. 
+3. Le protocole de consensus du staking et la gouvernance : le consensus basé sur le forgeage délégué est plus respectueux envers l’environnement et laisse une option plus flexible à la gouvernance communautaire. Ce système devrait permettre de meilleures performances sur le réseau par rapport au système [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) basé sur le minage, c’est à dire un temps de forgeage de bloc plus rapide et une capacité de transaction plus élevée. 
 
-Communication inter-chaînes native : __SB__ prévoit de mettre un support natif afin de permettre la communication inter-chaînes avec des stables coins comme __Tether__.... Le protocole de communication doit être bidirectionnel, décentralisé et sans faille. Il se concentrera sur le déplacement d’actifs numériques par exemple entre __SB__ et __Tether__, __USDC__... 
+4. Communication inter-chaînes native : __SB__ prévoit de mettre un support natif afin de permettre la communication inter-chaînes avec des stables coins comme __Tether__.... Le protocole de communication doit être bidirectionnel, décentralisé et sans faille. Il se concentrera sur le déplacement d’actifs numériques par exemple entre __SB__ et __Tether__, __USDC__... 
 
  
 
@@ -104,15 +103,15 @@ Communication inter-chaînes native : __SB__ prévoit de mettre un support natif
 
 Basé sur les principes de conception, le protocole de consensus de __SB__ est d’atteindre les objectifs suivants :  
 
-Le temps de blocage devrait être plus court que le réseau __Lisk__, par exemple 5 secondes ou même plus court afin de couvrir toutes les transactions partout dans le monde. 
+1. Le temps de blocage devrait être plus court que le réseau __Lisk__, par exemple 5 secondes ou même plus court afin de couvrir toutes les transactions partout dans le monde. 
 
-Il faut un temps limité pour confirmer la finalité des transactions, par exemple environ 1 min ou moins. 
+2. Il faut un temps limité pour confirmer la finalité des transactions, par exemple environ 1 min ou moins. 
 
-Il n’y a pas d’inflation du jeton natif __SKA__ : la récompense de bloc est collectée à partir des frais de forgeage, et elle sera payée en __LSK__ (monnaie de Lisk). 
+3. Il n’y a pas d’inflation du jeton natif __SKA__ : la récompense de bloc est collectée à partir des frais de forgeage, et elle sera payée en __LSK__ (monnaie de Lisk). 
 
-La compatibilité avec le système de stables coins autant que possible. 
+4. La compatibilité avec le système de stables coins autant que possible. 
 
-Le jeton __SKA__ représentera la capitalisation de la blockchain __skalleo__ et permettra de gouverner. 
+5. Le jeton __SKA__ représentera la capitalisation de la blockchain __skalleo__ et permettra de gouverner. 
 
 ### Preuve d’enjeu déléguée  
 
@@ -122,11 +121,11 @@ De ce fait, nous choisirons d’utiliser la preuve d’enjeu déléguée ([__DPo
 
 __SB__ propose ici de modifier le DPoS :  
 
-Les blocs sont produits par un ensemble limité de valideurs. 
+1. Les blocs sont produits par un ensemble limité de valideurs. 
 
-Les valideurs se relaient pour produire des blocs de manière [__PoA__](https://en.wikipedia.org/wiki/Proof_of_authority) c’est à dire seul les élus pourront forger des blocs. 
+2. Les valideurs se relaient pour produire des blocs de manière [__PoA__](https://en.wikipedia.org/wiki/Proof_of_authority) c’est à dire seul les élus pourront forger des blocs. 
 
-Les valideurs seront d’office les états détenteurs de pool de solidarité. 
+3. Les valideurs seront d’office les états détenteurs de pool de solidarité. 
 
 ### Quorum du valideur  
 
@@ -154,13 +153,13 @@ __Les frais de transaction proviendront d’une portion des paiements des profes
 
 __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci définit : 
 
-Les jetons __LSK__ s’utiliseront dans la blockchain afin de rémunérer les forgeurs. 
+1. Les jetons __LSK__ s’utiliseront dans la blockchain afin de rémunérer les forgeurs. 
 
-Les jetons __LSK__ et les stables coins devront être convertibles de manière bidirectionnelle et pourront circuler sur le réseau skalleo.  
+2. Les jetons __LSK__ et les stables coins devront être convertibles de manière bidirectionnelle et pourront circuler sur le réseau skalleo.  
 
-Les stables coins s’utiliseront pour payer les professionnels de santé. 
+3. Les stables coins s’utiliseront pour payer les professionnels de santé. 
 
-Le jeton __SKA__ sera déflationniste et capitalisera la __SB__. 
+4. Le jeton __SKA__ sera déflationniste et capitalisera la __SB__. 
 
 ### Fonds d’amorçage  
 
@@ -186,8 +185,8 @@ Ainsi les délégués seront en mesure de garder les données santé des patient
 
 __SB__ se fixe comme objectifs à court-terme :  
 
-La connexion entre les jetons __LSK__ et les stables coins. 
+1. La connexion entre les jetons __LSK__ et les stables coins. 
 
-Le paiement des professionnels en stable coins. 
+2. Le paiement des professionnels en stable coins. 
 
-La possibilité de sauvegarder des stable coins dans les comptes professionnels et les pools de solidarité. 
+3. La possibilité de sauvegarder des stable coins dans les comptes professionnels et les pools de solidarité. 
