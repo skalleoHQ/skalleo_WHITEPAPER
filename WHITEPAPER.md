@@ -1,6 +1,6 @@
-#Skalleo blockchain
+# Skalleo blockchain
 
-__________________________________________________________ 
+
 
  
 
@@ -10,7 +10,7 @@ REMARQUE : Ce document est en cours d’élaboration. S’il vous plaît vérifi
 
  
 
-Table des matières 
+### Table des matières 
 
 Motivation 
 
@@ -40,7 +40,7 @@ Perspectives
 
  
 
-Motivation  
+## Motivation  
 
 L’envie de rendre la santé accessible quelle que soit la situation géographique et de sécuriser le secteur sanitaire à travers le monde nous ont conduit à créer la blockchain skalleo.  
 
@@ -54,7 +54,7 @@ A long terme, nous mettrons en place des centres de santé en accord avec chaque
 
  
 
-Fonctionnement  
+## Fonctionnement  
 
 Alice a décidé de se rendre au Sénégal pour des raisons personnelles. Une fois sur place, Alice est malade et décide de trouver un médecin.  
 
@@ -74,7 +74,7 @@ Ce projet fera ses débuts grâce à Lisk et si nécessaire nous concentrerons n
 
  
 
-Qu’est-ce que Lisk ?  
+## Qu’est-ce que Lisk ?  
 
 Les développeurs peuvent construire, publier, partager et monétiser leurs dApps (applications décentralisées) sur la blockchain Lisk. Celles-ci sont développées avec du code JavaScript. 
 
@@ -84,7 +84,7 @@ Les spécificités des sidechains de Lisk peuvent être adaptées et optimisées
 
  
 
-Principes de conception 
+## Principes de conception 
 
 Après la création de la blockchain dans l’écosystème Lisk, deux blockchains fonctionneront côte à côte pour fournir des services différents. La nouvelle chaîne s’appellera << skalleo blockchain >> (abréviation de << SB >> pour les sections ci-dessous), tandis que le réseau principal restera nommé Lisk. 
 
@@ -100,7 +100,7 @@ Communication inter-chaînes native : SB prévoit de mettre un support natif afi
 
  
 
-Consensus et quorum du validateur  
+## Consensus et quorum du validateur  
 
 Basé sur les principes de conception, le protocole de consensus de SB est d’atteindre les objectifs suivants :  
 
@@ -114,7 +114,7 @@ La compatibilité avec le système de stables coins autant que possible.
 
 Le jeton SKA représentera la capitalisation de la blockchain skalleo et permettra de gouverner. 
 
-Preuve d’enjeu déléguée  
+### Preuve d’enjeu déléguée  
 
 Bien que la preuve de travail (PoW) ait été reconnue comme un mécanisme pratique pour mettre en œuvre un réseau décentralisé, elle n’est pas durable pour l’environnement et nécessite également un grand nombre de participants pour maintenir la sécurité. 
 
@@ -128,7 +128,7 @@ Les valideurs se relaient pour produire des blocs de manière PoA c’est à dir
 
 Les valideurs seront d’office les états détenteurs de pool de solidarité. 
 
-Quorum du valideur  
+### Quorum du valideur  
 
 Au stade de la genèse, uniquement les pools de solidarité disponibles s’exécuteront en tant que valideur initial. Une fois la blockchain commencée, n’importe quel état peut se joindre en tant que valideur. 
 
@@ -140,7 +140,7 @@ La sécurité de la blockchain dépendra entièrement des valideurs (états) et 
 
 Naturellement s’il y a N états adhérents donc N valideurs, les nœuds de la blockchain sont tous sains car leurs valideurs mettent en jeu leur fonds de solidarité. 
 
-Récompense  
+### Récompense  
 
 Tous les valideurs de SB seront récompensés par des frais de forgeage en LSK. Comme LSK est un jeton inflationniste, il y aura des récompenses minières comme ce que le réseau Bitcoin et Ethereum génèrent, et les frais de transaction sont la principale récompense pour le pool de solidarité mondiale ou notre rémunération. 
 
@@ -150,7 +150,7 @@ Les frais de transaction proviendront d’une portion des paiements des professi
 
  
 
-Plan économique des jetons  
+## Plan économique des jetons  
 
 SKA et LSK ne partagent pas le même univers de jetons. Celui-ci définit : 
 
@@ -162,7 +162,7 @@ Les stables coins s’utiliseront pour payer les professionnels de santé.
 
 Le jeton SKA sera déflationniste et capitalisera la SB. 
 
-Fonds d’amorçage  
+### Fonds d’amorçage  
 
 Au début de la blockchain, chaque contribuable est libre d’acheter des LSK ou des stables coins pour n’importe quelle raison, que ce soit pour faire des dons aux pools de solidarité, remercier un professionnel etc... 
 
@@ -170,7 +170,7 @@ Quant aux pools de solidarité, il sera nécessaire d’amorcer leur compteur av
 
  
 
-Sécurité des données  
+## Sécurité des données  
 
 SB renforcera la sécurité de ses données en limitant l’interopérabilité avec d’autres applications. Comme cité plus haut, SB choisit d’être interopérable avec le réseau principal Lisk. 
 
@@ -182,7 +182,7 @@ Ainsi les délégués seront en mesure de garder les données santé des patient
 
  
 
-Perspectives  
+## Perspectives  
 
 SB se fixe comme objectifs à court-terme :  
 
