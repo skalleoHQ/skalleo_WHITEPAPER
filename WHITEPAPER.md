@@ -132,7 +132,7 @@ Les valideurs seront d’office les états détenteurs de pool de solidarité.
 
 Au stade de la genèse, uniquement les pools de solidarité disponibles s’exécuteront en tant que valideur initial. Une fois la blockchain commencée, n’importe quel état peut se joindre en tant que valideur. 
 
-Lors de la production d’autres blocs, les valideurs SB existants vérifient si un message est relayé périodiquement sur SB. Si c’est le cas, ils mettront à jour le valideur défini après une période d’époque, c’est-à-dire un nombre prédéfini de temps de blocage. Par exemple, si SB produit un bloc toutes les 5 secondes et que la période d’époque est de 240 blocs, l’ensemble de valideurs actuel vérifiera et mettra à jour le cercle de valideurs pour l’époque suivante en 24 h (1440 minutes). 
+Lors de la production d’autres blocs, les valideurs __SB__ existants vérifient si un message est relayé périodiquement sur __SB__. Si c’est le cas, ils mettront à jour le valideur défini après une période d’époque, c’est-à-dire un nombre prédéfini de temps de blocage. Par exemple, si __SB__ produit un bloc toutes les 5 secondes et que la période d’époque est de 240 blocs, l’ensemble de valideurs actuel vérifiera et mettra à jour le cercle de valideurs pour l’époque suivante en 24 h (1440 minutes). 
 
 Sécurité et finalité  
 
@@ -146,7 +146,7 @@ Tous les valideurs de __SB__ seront récompensés par des frais de forgeage en _
 
 Ceci permettra de prôner l’intérêt commun car les récompenses minières contribueront aux fonds de solidarité de l’état valideur.  
 
-Les frais de transaction proviendront d’une portion des paiements des professionnels et assureront le fonctionnement de skalleo que ce soit la rémunération du personnel, l’ouverture de centre de santé à œuvres sociales etc... Ou encore à financer un pool de solidarité mondiale pour des œuvres caritatives. 
+__Les frais de transaction proviendront d’une portion des paiements des professionnels et assureront le fonctionnement de skalleo que ce soit la rémunération du personnel, l’ouverture de centre de santé à œuvres sociales etc... Ou encore à financer un pool de solidarité mondiale pour des œuvres caritatives.__ 
 
  
 
