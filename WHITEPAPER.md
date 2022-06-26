@@ -107,7 +107,7 @@ Basé sur les principes de conception, le protocole de consensus de __SB__ est d
 
 2. Il faut un temps limité pour confirmer la finalité des transactions, par exemple environ 1 min ou moins. 
 
-3. Il n’y a pas d’inflation du jeton natif __SKA__ : la récompense de bloc est collectée à partir des frais de forgeage, et elle sera payée en __LSK__ (monnaie de Lisk). 
+3. Il n’y a pas d’inflation du jeton natif __SKA__ : la récompense de bloc est collectée à partir des gains de forgeage, et elle sera payée en __LSK__ (monnaie de Lisk). 
 
 4. La compatibilité avec le système de stables coins autant que possible. 
 
