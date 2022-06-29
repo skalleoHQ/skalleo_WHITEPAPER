@@ -179,7 +179,7 @@ Les données santé seront sauvegardés en plugin ceci permettra de stocker ces 
 
 Ainsi les délégués seront en mesure de garder les données santé des patients puisqu’ils représentent les principaux garants de la blockchain. Quant aux professionnels et patients, leur accès à ces données est indispensable, puisqu’ils contribuent à l’élaboration de celles-ci.  
 
-En somme, __skalleo sera une blockchain privée à l'image d'une blockchain privée ce qui permettra d'accroître le niveau de sécurité__. 
+__Skalleo sera fonctionnera à l'image d'une blockchain privée ce qui permettra d'accroître le niveau de sécurité__.  
 Ces garants seront d'une part les délégués et d'autre part les professionnels et sont les seuls à pouvoir mettre à jour la blockchain, aucun d'entre eux ne corromprait le réseau puisque leurs intérêts sont en jeu. Les professionnels comptent sur la blockchain pour recevoir leurs paiements et les délégués misent leurs fonds de solidarité.
 
  
