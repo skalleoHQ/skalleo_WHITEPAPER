@@ -177,10 +177,11 @@ Cependant ne seront admises que les applications à finalité identique à __SB_
 
 Les données santé seront sauvegardés en plugin ceci permettra de stocker ces données uniquement dans quelques nœuds. Contrairement aux données santé, les comptes patients, professionnels et pools de solidarité seront enregistrés en état dans la blockchain, car celles-ci se trouvent au cœur des transactions à savoir (les transactions de soins transmis, les paiements à effectuer...).
 
-Ainsi les délégués seront en mesure de garder les données santé des patients puisqu’ils représentent les principaux garants de la blockchain. Quant aux professionnels et patients, leur accès à ces données est indispensable, puisqu’ils contribuent à l’élaboration de celles-ci.  
+Ainsi les délégués seront en mesure de garder les données santé des patients puisqu’ils représentent les principaux garants de la blockchain.  
+Quant aux professionnels et patients, leur accès à ces données est indispensable, puisqu’ils contribuent à l’élaboration de celles-ci.  
 
-__Skalleo sera fonctionnera à l'image d'une blockchain privée ce qui permettra d'accroître le niveau de sécurité__.  
-Ces garants seront d'une part les délégués et d'autre part les professionnels et sont les seuls à pouvoir mettre à jour la blockchain, aucun d'entre eux ne corromprait le réseau puisque leurs intérêts sont en jeu. Les professionnels comptent sur la blockchain pour recevoir leurs paiements et les délégués misent leurs fonds de solidarité.
+__Skalleo fonctionnera à l'image d'une blockchain privée ce qui permettra d'accroître le niveau de sécurité__.  
+Ces garants seront d'une part les délégués et d'autre part les professionnels et sont les seuls à pouvoir mettre à jour la blockchain. Aucun d'entre eux ne corromprait le réseau puisque leurs intérêts sont en jeu. Les professionnels comptent sur la blockchain pour recevoir leurs paiements et les délégués misent leurs fonds de solidarité.
 
  
 
