@@ -141,9 +141,7 @@ Naturellement s’il y a N états adhérents donc N valideurs, les nœuds de la 
 
 ### Récompense  
 
-Tous les valideurs de __SB__ seront récompensés par des frais de forgeage en __LSK__. Comme __LSK__ est un jeton inflationniste, il y aura des récompenses minières comme ce que le réseau Bitcoin et Ethereum génèrent, et les frais de transaction sont la principale récompense pour le pool de solidarité mondiale ou notre rémunération. 
-
-Ceci permettra de prôner l’intérêt commun car les récompenses minières contribueront aux fonds de solidarité de l’état valideur.  
+Tous les valideurs de __SB__ seront récompensés par des frais de forgeage en __LSK__. Comme __LSK__ est un jeton inflationniste, il y aura des récompenses de forgeage qui seront versés au pool concerné. Ceci permettra de __prôner l’intérêt commun__ car cette récompense contribuera aux fonds de solidarité de l’état valideur.  
 
 __Les frais de transaction proviendront d’une portion des paiements des professionnels et assureront le fonctionnement de skalleo que ce soit la rémunération du personnel, l’ouverture de centre de santé à œuvres sociales etc... Ou encore à financer un pool de solidarité mondiale pour des œuvres caritatives.__ 
 
