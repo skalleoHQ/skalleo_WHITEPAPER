@@ -129,7 +129,7 @@ __SB__ propose ici de modifier le DPoS :
 
 ### Quorum du valideur  
 
-Au stade de la genèse, uniquement les pools de solidarité disponibles s’exécuteront en tant que valideur initial. Une fois la blockchain commencée, n’importe quel état peut se joindre en tant que valideur. 
+Au stade de la genèse, uniquement les pools de solidarité disponibles s’exécuteront en tant que valideur initial. Une fois la blockchain commencée, n’importe quel état peut se joindre au réseau en tant que valideur. 
 
 Lors de la production d’autres blocs, les valideurs __SB__ existants vérifient si un message est relayé périodiquement sur __SB__. Si c’est le cas, ils mettront à jour le valideur défini après une période d’époque, c’est-à-dire un nombre prédéfini de temps de blocage. Par exemple, si __SB__ produit un bloc toutes les 5 secondes et que la période d’époque est de 240 blocs, l’ensemble de valideurs actuel vérifiera et mettra à jour le cercle de valideurs pour l’époque suivante en 24 h (1440 minutes). 
 
