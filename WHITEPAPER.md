@@ -13,6 +13,8 @@ Une santé sécurisée, par tous pour tous.
 
 * Motivation 
 
+* Stratégie de développement
+
 * Fonctionnement 
 
 * Qu’est-ce que Lisk ? 
@@ -49,10 +51,24 @@ Un manque de transparence pénalise aujourd’hui énormément le secteur sanita
 
 Notre seconde mission sera de mettre en place des structures sociales de santé qui fidéliseront les adhérents de __SB__. Comment ? 
 
-A long terme, nous mettrons en place des centres de santé en accord avec chaque gouvernement. Et ceci permettra de réduire la charge à payer des citoyens.  
+A long terme, nous mettrons en place des centres de santé en accord avec chaque gouvernement. Et ceci permettra de réduire la charge à payer des citoyens. 
+
+
+
+## Stratégie de développement
+
+Skalleo fait de sa priorité les pays n'ayant pas de couverture de santé. Chaque état avec les aides des différentes organisations alimentera son pool de financement afin de couvrir sa population. 
+
+D'une part, nous approcherons les professionnels de santé pour leur proposer d’adhérer au système SKA afin de recevoir leurs paiements en temps réels. D’autre part, tous les citoyens auront accès à la santé grâce à ce système de couverture sanitaire.
+
+A moyen terme, nous comptons améliorer les établissements de santé de l’état adhérent. 
+
+A long terme, nous mettrons en place des centres de santé afin de fidéliser les adhérents.  
+
+Ce qui permettra à Lisk de développer son réseau et de contribuer au développement des pays en voie de développement. 
 
  
-
+ 
 ## Fonctionnement  
 
 Alice a décidé de se rendre au Sénégal pour des raisons personnelles. Une fois sur place, Alice est malade et décide de trouver un médecin.  
@@ -113,6 +129,7 @@ Basé sur les principes de conception, le protocole de consensus de __SB__ est d
 
 5. Le jeton __SKA__ représentera la capitalisation de la blockchain __skalleo__ et permettra de gouverner. 
 
+
 ### Preuve d’enjeu déléguée  
 
 Bien que la preuve de travail (PoW) ait été reconnue comme un mécanisme pratique pour mettre en œuvre un réseau décentralisé, elle n’est pas durable pour l’environnement et nécessite également un grand nombre de participants pour maintenir la sécurité. 
@@ -127,6 +144,7 @@ __SB__ propose ici de modifier le DPoS :
 
 3. Les valideurs seront d’office les états détenteurs de pool de solidarité. 
 
+
 ### Quorum du valideur  
 
 Au stade de la genèse, uniquement les pools de solidarité disponibles s’exécuteront en tant que valideur initial. Une fois la blockchain commencée, n’importe quel état peut se joindre au réseau en tant que valideur. 
@@ -138,6 +156,7 @@ Sécurité et finalité
 La sécurité de la blockchain dépendra entièrement des valideurs (états) et ceux-ci ne mettront pas en péril sa transparence au risque de perdre entièrement leur liquidité. 
 
 Naturellement s’il y a N états adhérents donc N valideurs, les nœuds de la blockchain sont tous sains car leurs valideurs mettent en jeu leur fonds de solidarité. 
+
 
 ### Récompense  
 
@@ -158,6 +177,7 @@ __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci défini
 3. Les stables coins s’utiliseront pour payer les professionnels de santé. 
 
 4. Le jeton __SKA__ sera déflationniste et capitalisera la __SB__. 
+
 
 ### Fonds d’amorçage  
 
