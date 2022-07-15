@@ -66,7 +66,7 @@ Skalleo fait de sa priorité les pays n'ayant pas de couverture de santé. Chaqu
 Prenons exemple, la moyenne des dépenses gouvernementales mondiales de soins médicaux est estimée environ à 15 milliards de dollars par jour et la population mondiale s'estime à 7 milliards. Le rapport des dépenses divisé par le nombre d'habitants donne 2,15.
 Ce rapport multiplié par 365 donne environ 785$ qui n'est autre que le prix moyen pour couvrir un habitant pendant une année. On ajoutera par ailleurs les frais sur Lisk et la subvention de l'état nécessaire à notre bon fonctionnement.
 
-D'une part, les professionnels de santé recevront leurs paiements en temps réels et d’autre part, tous les citoyens auront accès à la santé grâce à ce système de couverture sanitaire.
+D'une part, les professionnels de santé recevront leurs paiements en temps réels et d’autre part, tous les citoyens auront accès à la santé grâce à ce système de couverture.
 
 A moyen terme, nous comptons améliorer les établissements de santé de l’état adhérent. 
 
@@ -175,6 +175,8 @@ __Les frais de transaction proviendront d’une portion des paiements des profes
 
 ## Plan économique  
 
+### Acteurs
+
 __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci définit : 
 
 1. Les jetons __LSK__ s’utiliseront dans la blockchain afin de rémunérer les forgeurs. 
@@ -185,8 +187,10 @@ __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci défini
 
 4. Le jeton __SKA__ sera déflationniste et capitalisera la __SB__.
 
-Le nombre de token __SKA__ disponible sera fixé à __10 millions__. 
 
+### Procédé
+
+Le nombre de token __SKA__ disponible sera fixé à __10 millions__. 
 
 
 ### Fonds d’amorçage  
