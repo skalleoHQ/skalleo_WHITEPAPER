@@ -59,7 +59,10 @@ A long terme, nous mettrons en place des centres de santé en accord avec chaque
 
 Skalleo fait de sa priorité les pays n'ayant pas de couverture de santé. Chaque état avec les aides des différentes organisations alimentera son pool de financement afin de couvrir sa population. 
 
-D'une part, nous approcherons les professionnels de santé pour leur proposer d’adhérer au système SKA afin de recevoir leurs paiements en temps réels. D’autre part, tous les citoyens auront accès à la santé grâce à ce système de couverture sanitaire.
+Prenons exemple, la moyenne des dépenses gouvernementales mondiales de soins médicaux est estimée environ à 15 milliards de dollars par jour et la population mondiale s'estime à 7 milliards. Le rapport des dépenses divisé par le nombre d'habitants donne 2,15.
+Ce rapport multiplié par 365 donne environ 785$ qui n'est autre que le prix moyen pour couvrir un habitant pendant une année. On ajoutera par ailleurs les frais sur Lisk et la subvention de l'état nécessaire à notre bon fonctionnement.
+
+D'une part, les professionnels de santé recevront leurs paiements en temps réels et d’autre part, tous les citoyens auront accès à la santé grâce à ce système de couverture sanitaire.
 
 A moyen terme, nous comptons améliorer les établissements de santé de l’état adhérent. 
 
@@ -177,6 +180,8 @@ __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci défini
 3. Les stables coins s’utiliseront pour payer les professionnels de santé. 
 
 4. Le jeton __SKA__ sera déflationniste et capitalisera la __SB__. 
+
+Les 
 
 
 ### Fonds d’amorçage  
