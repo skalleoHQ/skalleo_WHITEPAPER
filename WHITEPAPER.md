@@ -33,9 +33,9 @@ Une santé sécurisée, par tous pour tous.
 
 * Plan économique des jetons 
 
-  `* Acteurs`
+  * Acteurs
   
-  `* Procédé`
+  * Procédé
 
   * Fonds d’amorçage 
 
