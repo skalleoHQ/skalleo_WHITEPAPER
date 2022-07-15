@@ -33,6 +33,10 @@ Une santé sécurisée, par tous pour tous.
 
 * Plan économique des jetons 
 
+  `* Acteurs`
+  
+  `* Procédé`
+
   * Fonds d’amorçage 
 
 * Sécurité des données 
@@ -169,7 +173,7 @@ __Les frais de transaction proviendront d’une portion des paiements des profes
 
  
 
-## Plan économique des jetons  
+## Plan économique  
 
 __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci définit : 
 
@@ -179,9 +183,10 @@ __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci défini
 
 3. Les stables coins s’utiliseront pour payer les professionnels de santé. 
 
-4. Le jeton __SKA__ sera déflationniste et capitalisera la __SB__. 
+4. Le jeton __SKA__ sera déflationniste et capitalisera la __SB__.
 
-Les 
+Le nombre de token __SKA__ disponible sera fixé à __10 millions__. 
+
 
 
 ### Fonds d’amorçage  
