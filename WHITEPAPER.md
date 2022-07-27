@@ -223,7 +223,7 @@ Ces garants seront d'une part les délégués d'autre part les professionnels et
 
 __SB__ se fixe comme objectifs à court-terme :  
 
-1. La possibilité d'approvisionnement en stables coins. 
+1. La connexion entre les jetons __LSK__ et les stables coins. --------A revoir
 
 2. Le paiement des professionnels en stable coins. 
 
