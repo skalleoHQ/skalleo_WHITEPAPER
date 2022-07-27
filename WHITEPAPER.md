@@ -241,5 +241,5 @@ __SB__ se fixe comme objectifs à long-terme :
 
 4. Améliorer les prises en charge médicale et financière.
 
-5 .Eventuelle coopération avec les mutuelles et services étatiques de santé déjà existants
+5. Eventuelle coopération avec les mutuelles et services étatiques de santé déjà existants
 
