@@ -74,6 +74,9 @@ A long terme, nous mettrons en place des centres de santé afin de fidéliser le
 
 Ce qui permettra à Lisk de développer son réseau et de contribuer au développement des pays. 
 
+Pour faire adopter notre système, nous commencerons par rembourser les premiers soins indispensables à la zone concernée.
+Ex : rembourser les soins contre le paludisme au Sénégal , remboursement des actes médicaux pour les nourrissons et certains médicaments comme le paracétamol certains antibiotiques...
+
  
  
 ## Fonctionnement  
