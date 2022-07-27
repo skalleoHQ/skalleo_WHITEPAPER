@@ -231,7 +231,7 @@ __SB__ se fixe comme objectifs à court-terme :
 
 3. La possibilité de sauvegarder des stable coins dans les comptes professionnels et les pools de solidarité.
 
-__SB__ se fixe comme objectifs à court-terme :  
+__SB__ se fixe comme objectifs à long-terme :  
 
 1. Rendre la santé remboursable pour tous sur toute la planète
 
