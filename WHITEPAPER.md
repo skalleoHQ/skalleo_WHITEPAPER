@@ -68,13 +68,12 @@ Ce rapport multiplié par 365 donne environ 785$ qui n'est autre que le prix moy
 
 D'une part, les professionnels de santé recevront leurs paiements en temps réels et d’autre part tous les citoyens auront accès à la santé grâce à ce système de couverture.
 
-A moyen terme, nous comptons améliorer les établissements de santé de l’état adhérent. 
+Avec une partie de notre plus value, nous adopterons par le VOTE des plans d'amélioration du secteur sanitaire et de skalleo tels que l'ouverture de centres de santé, la création d'hôpitaux etc...
 
-A long terme, nous mettrons en place des centres de santé afin de fidéliser les adhérents.  
-
-Ce qui permettra à Lisk de développer son réseau et de contribuer au développement des pays. 
+Ce qui permettra à Lisk de développer son réseau et de contribuer au développement des pays.
 
 Pour faire adopter notre système, nous commencerons par rembourser les premiers soins indispensables à la zone concernée.
+
 Ex : rembourser les soins contre le paludisme au Sénégal , remboursement des actes médicaux pour les nourrissons et certains médicaments comme le paracétamol certains antibiotiques...
 
  
