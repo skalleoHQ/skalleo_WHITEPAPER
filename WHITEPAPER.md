@@ -72,7 +72,7 @@ A moyen terme, nous comptons améliorer les établissements de santé de l’ét
 
 A long terme, nous mettrons en place des centres de santé afin de fidéliser les adhérents.  
 
-Ce qui permettra à Lisk de développer son réseau et de contribuer au développement des pays en voie de développement. 
+Ce qui permettra à Lisk de développer son réseau et de contribuer au développement des pays. 
 
  
  
