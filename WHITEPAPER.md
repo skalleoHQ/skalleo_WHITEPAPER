@@ -229,4 +229,17 @@ __SB__ se fixe comme objectifs à court-terme :
 
 2. Le paiement des professionnels en stable coins. 
 
-3. La possibilité de sauvegarder des stable coins dans les comptes professionnels et les pools de solidarité. 
+3. La possibilité de sauvegarder des stable coins dans les comptes professionnels et les pools de solidarité.
+
+__SB__ se fixe comme objectifs à court-terme :  
+
+Rendre la santé remboursable pour tous sur toute la planète
+
+Homogénéiser les actes médicaux , les protocoles de soins , et les délivrances pharmaceutiques sur toute la planète ainsi que leurs tarifications
+
+Tracer les actes et les délivrances , carnet de santé des patients disponible pour les professionnels avec accord des patients en temps réel sur notre blockchain.
+
+Améliorer les prises en charge médicale et financière.
+
+Eventuelle coopération avec les mutuelles et services étatiques de santé déjà existants
+
