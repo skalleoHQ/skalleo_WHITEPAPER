@@ -233,11 +233,11 @@ __SB__ se fixe comme objectifs à court-terme :
 
 __SB__ se fixe comme objectifs à long-terme :  
 
-1. Rendre la santé remboursable pour tous sur toute la planète
+1. Rendre la santé remboursable pour tous sur toute la planète.
 
-2. Homogénéiser les actes médicaux , les protocoles de soins , et les délivrances pharmaceutiques sur toute la planète ainsi que leurs tarifications
+2. Homogénéiser les actes médicaux, les protocoles de soins, et les délivrances pharmaceutiques sur toute la planète ainsi que leurs tarifications.
 
-3. Tracer les actes et les délivrances , carnet de santé des patients disponible pour les professionnels avec accord des patients en temps réel sur notre blockchain.
+3. Tracer les actes et les délivrances, carnet de santé des patients disponible pour les professionnels avec accord des patients en temps réel sur notre blockchain.
 
 4. Améliorer les prises en charge médicale et financière.
 
