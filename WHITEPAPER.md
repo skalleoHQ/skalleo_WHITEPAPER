@@ -164,7 +164,7 @@ La sécurité de la blockchain dépendra entièrement des valideurs (états) et 
 
 Naturellement s’il y a N états adhérents donc N valideurs, les nœuds de la blockchain sont tous sains car leurs valideurs mettent en jeu leur fonds de solidarité. 
 
------------------------------------------------------------------- A REVOIR ----------------------------------------------------------------
+
 ### Récompense  
 
 Tous les valideurs de __SB__ seront récompensés par des frais de forgeage en __LSK__. Comme __LSK__ est un jeton inflationniste, il y aura des récompenses de forgeage qui seront versés au pool concerné. Ceci permettra de __prôner l’intérêt commun__ car cette récompense contribuera aux fonds de solidarité de l’état valideur.  
@@ -223,7 +223,7 @@ Ces garants seront d'une part les délégués d'autre part les professionnels et
 
 __SB__ se fixe comme objectifs à court-terme :  
 
-1. La connexion entre les jetons __LSK__ et les stables coins. --------A revoir
+1. La connexion entre les jetons __LSK__ et les stables coins.
 
 2. Le paiement des professionnels en stable coins. 
 
