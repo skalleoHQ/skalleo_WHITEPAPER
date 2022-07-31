@@ -192,7 +192,7 @@ __SKA__ et __LSK__ ne partagent pas le même univers de jetons. Celui-ci défini
 
 ### Procédé
 
-Le nombre de token __SKA__ disponible sera fixé à __1 milliard__ pour l'équipe de skalleo, __500 millions__ pour les investisseurs et __X tokens__ en réserve proportionnel à la population mondiale, délivré en partie aux états en fonction de leur investissemententèrement par skalleo. 
+Le nombre de token __SKA__ disponible sera fixé à __1 milliard__ pour l'équipe de skalleo, __500 millions__ pour les investisseurs, __500 millions__ en vente et __X tokens__ en réserve proportionnel à la population mondiale, délivré en partie aux états en fonction de leur investissemententèrement par skalleo. 
 
 __Un nombre de token proportionnel à la population d'un état est créé lorsque celui ci adhère au système de couverture sanitaire__ pour permettre à chaque individu de la population mondiale de détenir un token et prendre part aux décisions.
 
